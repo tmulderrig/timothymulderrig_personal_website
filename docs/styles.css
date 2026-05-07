@@ -1,1 +1,26 @@
 /* css styles */
+
+body {
+  background-image: url("media/greenhouse_vert.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: white;
+  adding: 8rem 2rem;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.homepage {
+  background: rgba(0,0,0,0.5);
+  backdrop-filter: blur(10px);
+
+  padding: 2rem;
+  border-radius: 16px;
+
+  color: white;
+
+  max-width: 900px;
+  margin: 2rem auto;
+}

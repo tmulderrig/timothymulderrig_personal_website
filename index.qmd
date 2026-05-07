@@ -1,7 +1,28 @@
 ---
-title: "personal_website"
+title: "Timothy Mulderrig"
+toc: false
+css: styles.css
+about: 
+  template: jolla
+  image-shape: rounded
+  image-width: 17em
+  links: 
+    - text: LinkedIn
+      href: www.linkedin.com/in/timothy-mulderrig
+    - text: GitHub
+      href: https://github.com/tmulderrig
+    - text: Email
+      href: mailto:tm639@cornell.edu
+
+
 ---
 
-This is a Quarto website.
+:::{.homepage}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Welcome to the personal website for Timothy Mulderrig!
+
+Tim is a PhD candidate at Cornell University in Plant Breeding and Genetics. Tim joined Dr. Mark Sorrells' Small Grains Breeding and Genetics lab in 2022 as has gained an in depth training in wheat breeding, genomics, and quantitative genetics. Tim also has declared graduate minors in International Agriculture and Rural Development as well as Plant Molecular Biology. Before his time at Cornell, Tim attended the University of Delaware, where he obtained a Honors Degree with Distinction in Plant Science, a B.A. in Biological Sciences, a B.S in Agriculture and Natural Resources and a minor in Chemistry.  
+
+Thank you for being here! 
+
+:::
